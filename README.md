@@ -1,4 +1,4 @@
-# Hi, I'm Shan-Cheng Yang (Glenn) 👋
+# Hi, I'm Shan-Cheng Yang (Glenn) 
 **Firmware Engineer | Communication Algorithms | Embedded Systems**
 
 [![NCU](https://img.shields.io/badge/M.S.-National_Central_University-blue?style=flat-square)](#)
