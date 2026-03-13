@@ -24,7 +24,7 @@ My engineering passion lies at the intersection of **hardware interfaces, low-le
 ### 🏆 Featured Projects
 
 #### 📡 [1] Channel Coding Simulators: LDPC (1023,781) & Extended Hamming
-* **Tech:** `C`, `GCC`, `Algorithm Implementation`
+* **Tech:** `C`, `Algorithm Implementation`
 * **Details:** Built highly optimized, memory-efficient baseband channel coding simulators from scratch.
   * **LDPC:** Implemented SPA/MSA iterative decoding with Syndrome Early Stopping mechanism. Achieved zero memory leaks through strict pointer lifecycle management.
   * **Hamming:** Implemented $O(1)$ Lookup Table (LUT) decoding and flat-array bit-masking to maximize CPU cache efficiency and eliminate branch prediction penalties.
