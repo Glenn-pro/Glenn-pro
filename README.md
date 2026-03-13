@@ -17,7 +17,7 @@ My engineering passion lies at the intersection of **hardware interfaces, low-le
 - **Embedded OS & Hardware:** `Linux` (Raspberry Pi), ` MCU` (Arduino)
 - **Hardware Interfaces & Protocols:** `UART`, `I2C`, `SPI`, `GPIO`, `LoRa`, `MQTT`
 - **Scripting & Automation:** `Python` (Hardware Automation, Sensor Data Parsing), `MATLAB`
-- **Domain Knowledge:** Channel Coding (LDPC, Hamming Code), Signal Validation, System Debugging
+- **Domain Knowledge:** Channel Coding (LDPC, Hamming Code), OFDM, MIMO, Signal Validation, System Debugging
 
 ---
 
